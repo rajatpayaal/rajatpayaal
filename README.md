@@ -15,17 +15,6 @@
 
 - ⚡ Fun fact **I think i am decent :), who love tech :)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajatpayaal" target="blank"><img align="center" src="/home/codex/Desktop/rajatpayaal/assets/twitter.png" alt="rajatpayaal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajatpayaal" target="blank"><img align="center" src="/home/codex/Desktop/rajatpayaal/assets/linkdin.png" alt="rajatpayaal" height="30" width="40" /></a>
-
-<a href="https://instagram.com/rajat_payaal" target="blank"><img align="center" src="/home/codex/Desktop/rajatpayaal/assets/instagram.png" alt="rajat_payaal" height="30" width="40" /></a>
-<a href="https://www.behance.net/rajatpayal" target="blank"><img align="center" src="/home/codex/Desktop/rajatpayaal/assets/behance.png" alt="rajatpayal" height="30" width="40" /></a>
-
-<a href="https://www.hackerearth.com/rajatpayal" target="blank"><img align="center" src="https://github.com/rajatpayaal/rajatpayaal/blob/main/assets/HackerEarth.svg" alt="rajatpayal" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatpayaal&show_icons=true&locale=en&layout=compact" alt="rajatpayaal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatpayaal&show_icons=true&locale=en" alt="rajatpayaal" /></p>
