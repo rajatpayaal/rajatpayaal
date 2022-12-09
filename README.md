@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat payal</h1>
-<h3 align="center">pursuing bachelor of computer science & engineering and i am passionate Software developer and ui and ux designer and involved to learn and playing with new tech by exploring new ideas and Passionate who belives in writing code that helps solve real world problems , at the time when i am not programming sometime i teach student to upgrade with new technology and follow our passion like swimming or yoga or photography , me grow with tech in different domian with different peopels , community provide me chance to work with teams and deploy a wonderfull envoirment !!! :))</h3>
+<p align="center">pursuing bachelor of computer science & engineering and i am passionate Software developer and ui and ux designer and involved to learn and playing with new tech by exploring new ideas and Passionate who belives in writing code that helps solve real world problems , at the time when i am not programming sometime i teach student to upgrade with new technology and follow our passion like swimming or yoga or photography , me grow with tech in different domian with different peopels , community provide me chance to work with teams and deploy a wonderfull envoirment !!! :))</p>
 
 - 🔭 I’m currently working on [Simple_notes application](https://github.com/rajatpayaal/Simple_Notes)
 
