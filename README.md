@@ -21,9 +21,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatpayaal&show_icons=true&locale=en&layout=compact" alt="rajatpayaal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatpayaal&show_icons=true&locale=en" alt="rajatpayaal" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatpayaal&show_icons=true&locale=en" alt="rajatpayaal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatpayaal&" alt="rajatpayaal" /></p>
 
 
-<p><a href="https://www.buymeacoffee.com/rajatpayal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajatpayal" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/rajatpayal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajatpayal" /></a></p><br><br> -->
