@@ -3,7 +3,7 @@
 
 <p style="font-family: Arial" align="left" margin ="center"><b>pursuing bachelor of computer science & engineering and i am passionate Software developer and ui and ux designer and involved to learn and playing with new tech by exploring new ideas and Passionate who belives in writing code that helps solve real world problems,at the time when i am not programming sometime i teach student to upgrade with new technology and follow our passion like swimming or yoga or photography , me grow with tech in different domian with different peopels,community provide me chance to work with teams andmdeploy a wonderfull envoirment !!! <pstyle="font-size:100px">&#128522;</p>
 
-<img align="right" alt="Coding" width="400" style="border-radius:50%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tqhetn9upaewwmead8os03na5urnxe943ucke4ef&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" style="border-radius:50%" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 <img src="https://komarev.com/ghpvc/?username=rajatpayaal&label=Profiles Views&color=blue&style=plastic" alt="rajatpayaal" />
  </p>
