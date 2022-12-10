@@ -10,7 +10,10 @@
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajatpayaal" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="rajatpayaal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajatpayaal" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="rajatpayaal" height="50" width="60" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.instagram.com/rajat_payaal" target="blank"><img align="center" src="https://cdn.dribbble.com/users/478912/screenshots/4172267/media/688e11cf5e68d048164e92d8665fa625.gif" alt="rajatpayaal" height="50" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.twitter.com/rajatpayaal" target="blank"><img align="center" src="https://media.tenor.com/manO5allgawAAAAi/twitter-bird.gif" alt="rajatpayaal" height="50" width="60" /></a>
+<!--  https://cdn.dribbble.com/users/478912/screenshots/4172267/media/688e11cf5e68d048164e92d8665fa625.gif -->
 
 <!--  linkdin -->
 <!--  https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif -->
