@@ -1,5 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h2 align="left">Hi 👋, I'm Rajat payal</h2>
+<h2 align="center">Hi there,&nbsp I'm Rajat👋  </h2>
+<h2 align="center">
+I'm a Software Developer 💻, Photographer 📸, and Designer 🎨!
+</h2>
 
 <p  align="left" margin ="center"><b>pursuing bachelor of computer science & engineering and i am passionate Software developer and ui and ux designer and involved to learn and playing with new tech by exploring new ideas and Passionate who belives in writing code that helps solve real world problems,at the time when i am not programming sometime i teach student to upgrade with new technology and follow our passion like swimming or yoga or photography , me grow with tech in different domian with different peopels,community provide me chance to work with teams andmdeploy a wonderfull envoirment !!! <pstyle="font-size:100px">&#128522;</p>
 
@@ -8,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=rajatpayaal&label=Profiles Views&color=blue&style=plastic" alt="rajatpayaal" />
  </p>
  
- <h3 align="left">Connect with me:</h3>
+ <h3 align="left"> Connect with me 🤝 :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajatpayaal" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="rajatpayaal" height="50" width="60" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.instagram.com/rajat_payaal" target="blank"><img align="center" src="https://cdn.dribbble.com/users/478912/screenshots/4172267/media/688e11cf5e68d048164e92d8665fa625.gif" alt="rajatpayaal" height="50" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
