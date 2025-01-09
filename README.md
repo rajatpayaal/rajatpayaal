@@ -13,7 +13,7 @@
 💻 Building robust solutions in **FastAPI, Flask, Django, Spring Boot**, and **Kubernetes**.  
 
 📫 Reach me at **rajatpayal02@gmail.com**.  
-<img align="right" alt="Coding" width="400" style="border-radius:50%" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+
 
 <img src="https://komarev.com/ghpvc/?username=rajatpayaal&label=Profiles Views&color=blue&style=plastic" alt="rajatpayaal" />
  </p>
