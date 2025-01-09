@@ -1,5 +1,6 @@
 <!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
-🚀 **Backend Developer | Python Enthusiast | MLOps Practitioner**  
+<h1>i am Rajat Payal</h1>
+<h3>Backend Developer | Python Enthusiast | MLOps </h3>
 
 🔧 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
