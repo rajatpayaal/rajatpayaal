@@ -1,11 +1,17 @@
 <!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
-<h2 align="center">Hi there,&nbsp I'm Rajat👋  </h2>
-<h2 align="center">
-I'm a Backend Developer 💻,and Designer 🎨!
-</h2>
+🚀 **Backend Developer | Python Enthusiast | MLOps Practitioner**  
 
-<p  align="left" margin ="center"><b>pursuing bachelor of computer science & engineering and i am passionate Software developer and ui and ux designer and involved to learn and playing with new tech by exploring new ideas and Passionate who belives in writing code that helps solve real world problems,at the time when i am not programming sometime i teach student to upgrade with new technology and follow our passion like swimming or yoga or photography , me grow with tech in different domian with different peopels,community provide me chance to work with teams andmdeploy a wonderfull envoirment !!! <pstyle="font-size:100px">&#128522;</p>
+🔧 **Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 
+💻 Building robust solutions in **FastAPI, Flask, Django, Spring Boot**, and **Kubernetes**.  
+
+📫 Reach me at **rajatpayal02@gmail.com**.  
 <img align="right" alt="Coding" width="400" style="border-radius:50%" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 <img src="https://komarev.com/ghpvc/?username=rajatpayaal&label=Profiles Views&color=blue&style=plastic" alt="rajatpayaal" />
@@ -24,22 +30,6 @@ I'm a Backend Developer 💻,and Designer 🎨!
  
 <!--  https://i.pinimg.com/originals/14/41/b8/1441b8b7e2650d9fc39d91f0e3d1d757.gif -->
  
-
-- 🔭 I’m currently working on [Simple_notes application](https://github.com/rajatpayaal/Simple_Notes)
-
-- 🌱 I’m currently learning **Vs code , github/gitlab, Android Studio , Linux , Rapid minor , Dart , Watson discovery, Kubernetes, CI/CD**
-
-- 👯 I’m looking to collaborate with me [Intelli-Chat-Room](https://github.com/rajatpayaal/Intelli-Chat-Room)
-
-- 👨‍💻 All of my projects are available at [https://github.com/rajatpayaal](https://github.com/rajatpayaal)
-
-- 📫 How to reach me **rajatpayal@outlook.in**
-
-- 📄 Know about my experiences [https://github.com/rajatpayaal](https://github.com/rajatpayaal)
-
-- ⚡ Fun fact **I think i am decent :), who love tech :)**
-
-<img align="right" alt="Coding" width="400" style="border-radius:50%" src="https://media3.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e47dx79s2atlbfmecjwb7jvxism79lqzigqt65rwt7w&rid=giphy.gif&ct=g">
 
 <h3 align="left">Languages and Tools:</h3>
 
