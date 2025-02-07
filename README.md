@@ -1,11 +1,9 @@
 <!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
 <h1>i am Rajat Payal</h1>
-<h3>Backend Developer | Python Enthusiast | MLOps </h3>
+<h3>Backend Developer </h3>
 
-🔧 **Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-
-💻 Building robust solutions in **FastAPI, Flask, Django, Spring Boot**, and **Kubernetes**.  
+💻 Software Engineer with approximately 1.5 years of professional experience and extensive training in the analysis, design,
+and development of client-server and web-based applications..  
 
 📫 Reach me at **rajatpayal02@gmail.com**.  
 
